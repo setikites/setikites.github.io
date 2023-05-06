@@ -1,0 +1,37 @@
+<html>
+  <head>
+<title>test</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-1">adf</div>  <div class="col-sm-11">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-2">asdf</div>  <div class="col-sm-10">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-3">asd</div>  <div class="col-sm-9">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">a</div>  <div class="col-sm-8">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-5">s</div>  <div class="col-sm-7">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">dd</div>  <div class="col-sm-6">asdf</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">f</div>
+  <div class="row">
+    <div class="col-sm">sdf</div>  <div class="col-sm">asdf</div>
+  </div>
+</div>
+
+<address>
+<a href="mailto:michaelmoore@Elaine-Moores-Computer-2.local">Michael Moore</a>
+</address>
+</body>
+</html>
